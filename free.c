@@ -2,7 +2,7 @@
 
 /**
  * free_stack -> Frees the stack
- * @head: Stack Head
+ * @head: Stack Head definition
 */
 
 void free_stack(stack_t *head)
